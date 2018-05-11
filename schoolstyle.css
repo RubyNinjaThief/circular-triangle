@@ -8,7 +8,14 @@ body {
       text-align:center;
       background-color:white;
       }
-     
+
+.header { display:block;
+        margin:auto;
+        font-family:sans-serif; 
+      text-align:center;
+      background-color:white;
+      }
+
      p {display:block;
         margin:auto;
         font-family:sans-serif; 
